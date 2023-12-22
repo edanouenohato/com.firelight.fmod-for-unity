@@ -418,7 +418,7 @@ MonoBehaviour:
   HasSourceProject: 0
   HasPlatforms: 1
   sourceProjectPath: 
-  sourceBankPath: ../eh-fmod/Build
+  sourceBankPath: Packages/com.edanoue.eh.base/FMOD Build
   sourceBankPathUnformatted: 
   BankRefreshCooldown: 5
   ShowBankRefreshWindow: 1
